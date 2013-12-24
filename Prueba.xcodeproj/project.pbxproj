@@ -18,6 +18,7 @@
 		EDC26F251847928D0078BE96 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EDC26F241847928D0078BE96 /* Default-568h@2x.png */; };
 		EDC26F281847928D0078BE96 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDC26F261847928D0078BE96 /* MainStoryboard.storyboard */; };
 		EDC26F2B1847928D0078BE96 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EDC26F2A1847928D0078BE96 /* ViewController.m */; };
+		EDC26F33184792B40078BE96 /* TablaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EDC26F32184792B40078BE96 /* TablaViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		EDC26F271847928D0078BE96 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		EDC26F291847928D0078BE96 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		EDC26F2A1847928D0078BE96 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		EDC26F31184792B40078BE96 /* TablaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TablaViewController.h; sourceTree = "<group>"; };
+		EDC26F32184792B40078BE96 /* TablaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TablaViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				EDC26F261847928D0078BE96 /* MainStoryboard.storyboard */,
 				EDC26F291847928D0078BE96 /* ViewController.h */,
 				EDC26F2A1847928D0078BE96 /* ViewController.m */,
+				EDC26F31184792B40078BE96 /* TablaViewController.h */,
+				EDC26F32184792B40078BE96 /* TablaViewController.m */,
 				EDC26F151847928D0078BE96 /* Supporting Files */,
 			);
 			path = Prueba;
@@ -176,6 +181,7 @@
 				EDC26F1B1847928D0078BE96 /* main.m in Sources */,
 				EDC26F1F1847928D0078BE96 /* AppDelegate.m in Sources */,
 				EDC26F2B1847928D0078BE96 /* ViewController.m in Sources */,
+				EDC26F33184792B40078BE96 /* TablaViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
