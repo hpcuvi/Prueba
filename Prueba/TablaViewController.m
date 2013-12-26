@@ -4,7 +4,9 @@
 //
 //  Created by curso on 28/11/13.
 //  Copyright (c) 2013 Pato. All rights reserved.
+// pongo un comentario
 //
+// Editado por Ivan Hidrovo
 
 #import "TablaViewController.h"
 
@@ -26,12 +28,15 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.title=@"HOLA GIT";
 
     // Uncomment the following line to preserve selection between presentations.
     // self.clearsSelectionOnViewWillAppear = NO;
  
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
+    
+    // el .m
 }
 
 - (void)didReceiveMemoryWarning
