@@ -40,7 +40,7 @@
     
     //Hola Don Pato ??
     
-    //El Teddy le pidio Matrimonio por Navidad
+    //El Teddy le pidio Matrimonio a la Jenny por Navidad
 
 }
 
