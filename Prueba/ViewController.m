@@ -4,7 +4,7 @@
 //
 //  Created by curso on 28/11/13.
 //  Copyright (c) 2013 Pato. All rights reserved.
-//
+//  Power by : Tito Vizcaino alias tuiti
 
 #import "ViewController.h"
 
@@ -23,19 +23,25 @@
     
     //Hola Git jhfjhfjg Mini mac
     
+    //NSString *hola;
     
-    
-
+		
     // estoy modificando
 
     // estoy modificando huyfghjfgh
 
     // aksdjfkasdfsd
-<<<<<<< HEAD
-    //Soy Tito
-=======
 
->>>>>>> 56b6b80d2e48a5a890dac44c8d3ab2ef79816a3c
+    //Soy Tito
+	
+	// Soy alejo hjfhgfghfhg
+    
+    // El tito es el conflicto =)
+    
+    //Hola Don Pato ??
+    
+    //El Teddy le pidio Matrimonio a la Jenny por Navidad
+
 }
 
 - (void)didReceiveMemoryWarning
