@@ -23,7 +23,7 @@
     
     //Hola Git jhfjhfjg Mini mac
     
-    
+    NSString *hola;
     
 
     // estoy modificando
