@@ -25,7 +25,7 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-	NSlog(@"codigo php");
+	//NSlog(@"codigo php");
 }
 
 @end
