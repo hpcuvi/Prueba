@@ -4,7 +4,7 @@
 //
 //  Created by curso on 28/11/13.
 //  Copyright (c) 2013 Pato. All rights reserved.
-//
+//  Power by : Tito Vizcaino alias tuiti
 
 #import "ViewController.h"
 
@@ -31,11 +31,11 @@
     // estoy modificando huyfghjfgh
 
     // aksdjfkasdfsd
-<<<<<<< HEAD
-    //Soy Tito
-=======
 
->>>>>>> 56b6b80d2e48a5a890dac44c8d3ab2ef79816a3c
+    //Soy Tito
+    
+    // El tito es el conflicto =)
+
 }
 
 - (void)didReceiveMemoryWarning
