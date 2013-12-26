@@ -19,13 +19,17 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 
+
     
-    //Hola Git jhfjhfjg
+    //Hola Git jhfjhfjg Mini mac
     
     
     
 
     // estoy modificando
+
+    // estoy modificando huyfghjfgh
+
     // aksdjfkasdfsd
 
 }
