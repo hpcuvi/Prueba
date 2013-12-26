@@ -18,7 +18,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    // estoy modificando
+    // estoy modificando huyfghjfgh
+    NSString *nombre;
     // aksdjfkasdfsd
 }
 
