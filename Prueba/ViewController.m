@@ -31,7 +31,11 @@
     // estoy modificando huyfghjfgh
 
     // aksdjfkasdfsd
+<<<<<<< HEAD
+    //Soy Tito
+=======
 
+>>>>>>> 56b6b80d2e48a5a890dac44c8d3ab2ef79816a3c
 }
 
 - (void)didReceiveMemoryWarning
